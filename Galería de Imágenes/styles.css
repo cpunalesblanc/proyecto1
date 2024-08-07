@@ -1,5 +1,6 @@
 body {
     background-color: rgb(216, 243, 220);
+    text-align: center;
 }
 
 .image{
@@ -12,7 +13,7 @@ body {
     text-decoration: none;
     color: black;
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color:red;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
